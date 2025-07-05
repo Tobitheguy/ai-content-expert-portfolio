@@ -1,0 +1,12 @@
+<article>
+  <title>Prompt Engineering</title>
+  <intro>
+    Prompt Engineering ist die Kunst, gezielte Eingaben an große Sprachmodelle zu formulieren, um konsistente und hilfreiche Ausgaben zu erzielen.
+  </intro>
+  <bullets>
+    <point>Klare Struktur</point>
+    <point>Kontext wichtig</point>
+    <point>Few-shot hilft</point>
+  </bullets>
+  <summary>Prompting wird zur Schlüsselkompetenz im KI-Zeitalter.</summary>
+</article>
